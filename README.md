@@ -1,3 +1,5 @@
+My other account is [Codedruid13](https://github.com/codedruid13) but I lost access to the account.
+
 :woman_technologist: &nbsp;About Me :
 <br />
 
@@ -14,8 +16,6 @@ I am self-aware of the impact our solutions have on people's lives, and this is 
 
 Am highly experienced in product design using tools like Figma, Adobe XD and Illustrator. The extensive portfolio can be found via 
 [Dribbble Portfolio](https://dribbble.com/Obare13) and [Behance Portfolio](https://behance.net/Obare13) 
-
-My other account is [Codedruid13](https://github.com/codedruid13) but I lost access to the account.
 
 - 🔭 I’m working as a Software Engineer contributing to frontend and awesome product design.
 - 🌱 Exploring Human Centered Design and Interaction.
