@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a Software Engineer and Product Designer with 6+ years of experience creating seamless digital experiences. I'm passionate about bridging the gap between user needs, business goals, and technical possibilities.
+I'm a Software Engineer and Product Designer with 7+ years of experience creating seamless digital experiences. I'm passionate about bridging the gap between user needs, business goals, and technical possibilities.
 
 My work spans across iOS, Android, web, SaaS, B2B, B2C, user research, data visualization, and product design. I believe in creating solutions that simplify the relationship between people and the interactive products they use.
 
