@@ -121,7 +121,7 @@ My work spans across iOS, Android, web, SaaS, B2B, B2C, user research, data visu
  
 ## Latest Blog Posts
 
-- [Influence of design on usability of applications || Best mobile design practices](https://blog.madavi.co/influence-of-design-on-usability-of-applications/)
+- [Influence of design on usability of applications || Best mobile design practices](https://madavi.co/influence-of-design-on-usability-of-applications/)
 
 ---
 
