@@ -86,6 +86,38 @@ My work spans across iOS, Android, web, SaaS, B2B, B2C, user research, data visu
 
 ---
 
+## Projects
+
+| Project | Description | URL |
+| :--- | :--- | :--- |
+| **Patika** | Comprehensive UX/UI case study showcasing the redesign of the Patika Bookkeeping App, focusing on modern aesthetics, intuitive navigation, and simplified financial tracking for small business owners. | https://obare27.com/portfolio/patika/ |
+| **Tamasha** | Full UX/UI design of the Tamasha Rentals App, developing features for seamless property listing, efficient search, secure booking, and direct tenant-landlord communication. | https://obare27.com/portfolio/tamasha/ |
+| **Lifesten** | Created an intuitive Lifesten Health App interface for NCD 365, focusing on user adherence to health regimens and easy tracking tools for non-communicable disease management. | https://obare27.com/portfolio/lifesten/ |
+| **Oasis** | Showcasing the design of the Oasis Exploration App, featuring an engaging map interface, personalized discovery algorithms, and tools to facilitate seamless travel planning. | https://obare27.com/portfolio/oasis/ |
+| **Traceability Platform** | Fullstack development and implementation of the Terrasoftworks Traceability-as-a-Service (TaaS) platform, featuring a secure API and a comprehensive dashboard for end-to-end supply chain tracking. | https://obare27.com/portfolio/traceability-platform/ |
+| **Waas** | Built the comprehensive documentation and API gateway for Waas at Terrasoftworks, focusing on backend stability and creating clear, accessible resources for external developers. | https://obare27.com/portfolio/waas/ |
+| **Madavi Social Branding** | Graphic design work for Madavi, including the creation of engaging social media templates, campaign visuals, and identity assets aimed at maximizing brand recognition and audience interaction. | https://obare27.com/portfolio/madavi-social-branding/ |
+| **Official Safari Rally Website Revamp** | Fullstack overhaul of the official Safari Rally website for the Ministry of Sports - Kenya, improving site speed, mobile responsiveness, and integrating live event updates for global fans. | https://obare27.com/portfolio/official-safari-rally-website-revamp/ |
+| **Wine Ecommerce Website** | UX/UI design for The Good Mix Co's online wine shop, focused on a clean, elegant interface, easy product filtering, and an optimized checkout flow to drive sales. | https://obare27.com/portfolio/wine-ecommerce-website/ |
+| **Agro Management Platform** | Fullstack development of the Easy Agro Management Platform, building modules for crop tracking, inventory management, and data reporting to support modern agricultural practices. | https://obare27.com/portfolio/agro-management-platform/ |
+| **Agro Super Management Platform** | Engineered the Easy Agro Super Management Platform, creating an administrative backend and dashboard for comprehensive oversight of the farming ecosystem. | https://obare27.com/portfolio/agro-super-management-platform/ |
+| **Easy Agro Shop** | Fullstack development of the Easy Agro Shop, an e-commerce solution for selling agricultural supplies with integrated payment processing and logistics management. | https://obare27.com/portfolio/easy-agro-shop/ |
+| **Easy Agro Backend** | Core backend development using Python/Django for the Easy Agro platform, ensuring data integrity, scalability, and high performance across applications. | https://obare27.com/portfolio/easy-agro-backend/ |
+| **BURN Backend** | Designed and implemented core backend services and APIs for BURN Manufacturing LLC, USA, supporting global operational data reporting and system stability. | https://obare27.com/portfolio/burn-backend/ |
+| **Sendplum** | Complete redesign of the Sendplum logistics dashboard, simplifying complex tracking data and optimizing shipment workflows with a modern UI. | https://obare27.com/portfolio/sendplum/ |
+| **Wallstreet Africa** | Built and maintained the fullstack architecture of the Wallstreet Africa website, including secure API integration and robust content management for financial data. | https://obare27.com/portfolio/wallstreet-africa/ |
+| **Solv App Redesign** | Executed a comprehensive UI/UX redesign and front-end development for the Solv Fintech App, improving mobile payment flows and financial clarity. | https://obare27.com/portfolio/solv-app-redesign/ |
+| **Solv Dashboards Redesign** | Led the UI/UX redesign and front-end implementation for Solv's financial dashboards, prioritizing accessible data visualization and B2B usability. | https://obare27.com/portfolio/solv-dashboards-redesign/ |
+| **Fisio – Next.js Dashboard Template** | Engineered and launched Fisio, a highly performant and customizable dashboard template built with Next.js, optimized for scalability and rapid deployment. | https://obare27.com/portfolio/fisio-next-js-dashboard-template/ |
+| **The Kenyan Wall Street – Complete Web Revamp** | Led the fullstack engineering overhaul of The Kenyan Wall Street website, achieving major improvements in speed, design, and content management. | https://obare27.com/portfolio/the-kenyan-wall-street-complete-web-revamp/ |
+| **BURN Frontend** | Fullstack development for BURN Manufacturing's corporate website, ensuring a responsive, modern, and high-conversion user experience. | https://obare27.com/portfolio/burn-frontend/ |
+| **Perfume Plug** | Engineered the complete e-commerce platform for Perfume Plug, managing product listings, secure checkout, and a seamless shopping experience. | https://obare27.com/portfolio/perfume-plug/ |
+| **Sarage Investments Ltd** | Designed and developed the official corporate website for Sarage Investments Ltd, focusing on professional presentation and optimized lead generation. | https://obare27.com/portfolio/sarage-investments-ltd/ |
+| **Expatike** | Engineered the Expatike platform, a resource hub connecting expats in Kenya with vetted services, housing, and essential information. | https://obare27.com/portfolio/expatike/ |
+| **Kuzafy** | Developed the Kuzafy platform end-to-end, featuring tools for small business management, resource sharing, and community-driven economic development. | https://obare27.com/portfolio/kuzafy/ |
+
+---
+
  
 ## Latest Blog Posts
 
