@@ -90,44 +90,45 @@ My work spans across iOS, Android, web, SaaS, B2B, B2C, user research, data visu
 
 | Project | Description | URL |
 | :--- | :--- | :--- |
-| **The Kenyan Wall Street – Complete Web Revamp** | Led the fullstack engineering overhaul of The Kenyan Wall Street website, achieving major improvements in speed, design, and content management. | https://obare27.com/works/the-kenyan-wall-street-complete-web-revamp/ |
-| **Kuzafy** | Developed the Kuzafy platform end-to-end, featuring tools for small business management, resource sharing, and community-driven economic development. | https://obare27.com/works/kuzafy/ |
-| **Perfume Plug** | Engineered the complete e-commerce platform for Perfume Plug, managing product listings, secure checkout, and a seamless shopping experience. | https://obare27.com/works/perfume-plug/ |
-| **BURN Frontend** | Fullstack development for BURN Manufacturing's corporate website, ensuring a responsive, modern, and high-conversion user experience. | https://obare27.com/works/burn-frontend/ |
-| **Sarage Investments Ltd** | Designed and developed the official corporate website for Sarage Investments Ltd, focusing on professional presentation and optimized lead generation. | https://obare27.com/works/sarage-investments-ltd/ |
-| **Expatike** | Engineered the Expatike platform, a resource hub connecting expats in Kenya with vetted services, housing, and essential information. | https://obare27.com/works/expatike/ |
-| **Fisio – Next.js Dashboard Template** | Engineered and launched Fisio, a highly performant and customizable dashboard template built with Next.js, optimized for scalability and rapid deployment. | https://obare27.com/works/fisio-next-js-dashboard-template/ |
-| **Patika** | Comprehensive UX/UI case study showcasing the redesign of the Patika Bookkeeping App, focusing on modern aesthetics, intuitive navigation, and simplified financial tracking for small business owners. | https://obare27.com/works/patika/ |
-| **Tamasha** | Full UX/UI design of the Tamasha Rentals App, developing features for seamless property listing, efficient search, secure booking, and direct tenant-landlord communication. | https://obare27.com/works/tamasha/ |
-| **Lifesten** | Created an intuitive Lifesten Health App interface for NCD 365, focusing on user adherence to health regimens and easy tracking tools for non-communicable disease management. | https://obare27.com/works/lifesten/ |
-| **Oasis** | Showcasing the design of the Oasis Exploration App, featuring an engaging map interface, personalized discovery algorithms, and tools to facilitate seamless travel planning. | https://obare27.com/works/oasis/ |
-| **Traceability Platform** | Fullstack development and implementation of the Terrasoftworks Traceability-as-a-Service (TaaS) platform, featuring a secure API and a comprehensive dashboard for end-to-end supply chain tracking. | https://obare27.com/works/traceability-platform/ |
-| **Waas** | Built the comprehensive documentation and API gateway for Waas at Terrasoftworks, focusing on backend stability and creating clear, accessible resources for external developers. | https://obare27.com/works/waas/ |
-| **Madavi Social Branding** | Graphic design work for Madavi, including the creation of engaging social media templates, campaign visuals, and identity assets aimed at maximizing brand recognition and audience interaction. | https://obare27.com/works/madavi-social-branding/ |
-| **Official Safari Rally Website Revamp** | Fullstack overhaul of the official Safari Rally website for the Ministry of Sports - Kenya, improving site speed, mobile responsiveness, and integrating live event updates for global fans. | https://obare27.com/works/official-safari-rally-website-revamp/ |
-| **Wine Ecommerce Website** | UX/UI design for The Good Mix Co's online wine shop, focused on a clean, elegant interface, easy product filtering, and an optimized checkout flow to drive sales. | https://obare27.com/works/wine-ecommerce-website/ |
-| **Agro Management Platform** | Fullstack development of the Easy Agro Management Platform, building modules for crop tracking, inventory management, and data reporting to support modern agricultural practices. | https://obare27.com/works/agro-management-platform/ |
-| **Agro Super Management Platform** | Engineered the Easy Agro Super Management Platform, creating an administrative backend and dashboard for comprehensive oversight of the farming ecosystem. | https://obare27.com/works/agro-super-management-platform/ |
-| **Easy Agro Shop** | Fullstack development of the Easy Agro Shop, an e-commerce solution for selling agricultural supplies with integrated payment processing and logistics management. | https://obare27.com/works/easy-agro-shop/ |
-| **Easy Agro Backend** | Core backend development using Python/Django for the Easy Agro platform, ensuring data integrity, scalability, and high performance across applications. | https://obare27.com/works/easy-agro-backend/ |
-| **BURN Backend** | Designed and implemented core backend services and APIs for BURN Manufacturing LLC, USA, supporting global operational data reporting and system stability. | https://obare27.com/works/burn-backend/ |
-| **Sendplum** | Complete redesign of the Sendplum logistics dashboard, simplifying complex tracking data and optimizing shipment workflows with a modern UI. | https://obare27.com/works/sendplum/ |
-| **Wallstreet Africa** | Built and maintained the fullstack architecture of the Wallstreet Africa website, including secure API integration and robust content management for financial data. | https://obare27.com/works/wallstreet-africa/ |
-| **Solv App Redesign** | Executed a comprehensive UI/UX redesign and front-end development for the Solv Fintech App, improving mobile payment flows and financial clarity. | https://obare27.com/works/solv-app-redesign/ |
-| **Solv Dashboards Redesign** | Led the UI/UX redesign and front-end implementation for Solv's financial dashboards, prioritizing accessible data visualization and B2B usability. | https://obare27.com/works/solv-dashboards-redesign/ |
+| **SysDesign** | AI-assisted React Flow architecture diagramming tool for designing and documenting system architecture. | https://sysdesign.obare27.com |
+| **@obare13/pesapal-v3** | Zero-dependency TypeScript npm library for Pesapal v3 payment integration. | https://www.npmjs.com/package/@obare13/pesapal-v3 |
+| **The Kenyan Wall Street** | Fullstack overhaul with major improvements in speed, design, and content management. | https://obare27.com/works/the-kenyan-wall-street-complete-web-revamp/ |
+| **Kuzafy** | SME platform for business management, resource sharing, and community-driven economic development. | https://obare27.com/works/kuzafy/ |
+| **Perfume Plug** | E-commerce platform with product listings, secure checkout, and a custom Scent Matcher. | https://obare27.com/works/perfume-plug/ |
+| **Solv App Redesign** | Fintech app UI/UX redesign improving mobile payment flows and financial clarity. | https://obare27.com/works/solv-app-redesign/ |
+| **Solv Dashboards Redesign** | Financial dashboards redesign with accessible data visualization for B2B use. | https://obare27.com/works/solv-dashboards-redesign/ |
+| **BURN Frontend** | Responsive, high-conversion corporate website for BURN Manufacturing. | https://obare27.com/works/burn-frontend/ |
+| **Sarage Investments** | Corporate website focused on professional presentation and lead generation. | https://obare27.com/works/sarage-investments-ltd/ |
+| **Expatike** | Resource hub connecting expats in Kenya with vetted services, housing, and essential info. | https://obare27.com/works/expatike/ |
+| **Fisio** | Customizable Next.js dashboard template optimized for scalability and rapid deployment. | https://obare27.com/works/fisio-next-js-dashboard-template/ |
+| **Patika** | Bookkeeping app UX/UI redesign focused on intuitive navigation and SME financial tracking. | https://obare27.com/works/patika/ |
+| **Tamasha** | Rentals app UX covering property listing, search, booking, and tenant-landlord communication. | https://obare27.com/works/tamasha/ |
+| **Lifesten** | Health app UI for NCD 365 focused on adherence tracking and non-communicable disease management. | https://obare27.com/works/lifesten/ |
+| **Oasis** | Exploration app with an interactive map, personalized discovery, and travel planning tools. | https://obare27.com/works/oasis/ |
+| **Traceability Platform** | TaaS platform with a secure API and dashboard for end-to-end supply chain tracking. | https://obare27.com/works/traceability-platform/ |
+| **Waas** | API gateway and developer documentation platform focused on backend stability and DX. | https://obare27.com/works/waas/ |
+| **Madavi Social Branding** | Social media templates, campaign visuals, and brand identity assets. | https://obare27.com/works/madavi-social-branding/ |
+| **Safari Rally Website** | Fullstack revamp of the official Safari Rally site with live event updates and mobile optimization. | https://obare27.com/works/official-safari-rally-website-revamp/ |
+| **Wine Ecommerce** | Elegant online wine shop UX/UI with smart product filtering and optimized checkout. | https://obare27.com/works/wine-ecommerce-website/ |
+| **Agro Management Platform** | Fullstack platform with modules for crop tracking, inventory, and data reporting. | https://obare27.com/works/agro-management-platform/ |
+| **Agro Super Management Platform** | Admin backend and dashboard for full oversight of the Easy Agro ecosystem. | https://obare27.com/works/agro-super-management-platform/ |
+| **Easy Agro Shop** | Agricultural supplies e-commerce with integrated payments and logistics. | https://obare27.com/works/easy-agro-shop/ |
+| **Easy Agro Backend** | Python/Django backend handling data integrity and scalability for Easy Agro. | https://obare27.com/works/easy-agro-backend/ |
+| **BURN Backend** | Backend services and APIs for BURN Manufacturing supporting global operational reporting. | https://obare27.com/works/burn-backend/ |
+| **Sendplum** | Logistics dashboard redesign simplifying shipment tracking with a modern UI. | https://obare27.com/works/sendplum/ |
+| **Wallstreet Africa** | Fullstack architecture with secure API integration and financial content management. | https://obare27.com/works/wallstreet-africa/ |
 
 
 ---
 
- 
 ## Latest Blog Posts
 
 - [Influence of design on usability of applications || Best mobile design practices](https://madavi.co/influence-of-design-on-usability-of-applications/)
 
 ---
 
-<div align="center">
-  
+<div align="start">
+
 ### Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities.
