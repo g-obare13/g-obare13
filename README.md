@@ -1,4 +1,4 @@
-# Hi there, I'm Geoffrey Obare
+# Hi there, I'm Obare
 
 <div align="start">
   
@@ -90,10 +90,10 @@ My work spans across iOS, Android, web, SaaS, B2B, B2C, user research, data visu
 
 | Project | Description | URL |
 | :--- | :--- | :--- |
+| **Kuzafy** | AI SME platform for business management, resource sharing, and community-driven economic development. | https://obare27.com/works/kuzafy/ |
 | **SysDesign** | AI-assisted React Flow architecture diagramming tool for designing and documenting system architecture. | https://sysdesign.obare27.com |
 | **@obare13/pesapal-v3** | Zero-dependency TypeScript npm library for Pesapal v3 payment integration. | https://www.npmjs.com/package/@obare13/pesapal-v3 |
 | **The Kenyan Wall Street** | Fullstack overhaul with major improvements in speed, design, and content management. | https://obare27.com/works/the-kenyan-wall-street-complete-web-revamp/ |
-| **Kuzafy** | SME platform for business management, resource sharing, and community-driven economic development. | https://obare27.com/works/kuzafy/ |
 | **Perfume Plug** | E-commerce platform with product listings, secure checkout, and a custom Scent Matcher. | https://obare27.com/works/perfume-plug/ |
 | **Solv App Redesign** | Fintech app UI/UX redesign improving mobile payment flows and financial clarity. | https://obare27.com/works/solv-app-redesign/ |
 | **Solv Dashboards Redesign** | Financial dashboards redesign with accessible data visualization for B2B use. | https://obare27.com/works/solv-dashboards-redesign/ |
